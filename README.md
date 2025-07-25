@@ -26,4 +26,11 @@ Python, JavaScript/TypeScript, React, Flask, SQLAlchemy, Mapbox, Three.js, CI/CD
 - Traveling off the beaten path
 
 ## 📫 Connect with me
-[LinkedIn](https://www.linkedin.com/in/jeremygarcia23/) ・ [GitHub](https://github.com/NomadLyfe) ・ [Codewars](https://www.codewars.com/users/NomadLyfe) :contentReference[oaicite:16]{index=16}
+[LinkedIn](https://www.linkedin.com/in/jeremygarcia23/) ・ [GitHub](https://github.com/NomadLyfe) ・ [Codewars](https://www.codewars.com/users/NomadLyfe)
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=NomadLyfe&show_icons=true&theme=radical" 
+    alt="Jeremy’s GitHub stats" 
+  />
+</p>
