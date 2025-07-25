@@ -1,7 +1,7 @@
 # Hey there! I’m Jeremy 👋
 
 **Software Engineer & former Naval Nuclear Officer**  
-I turn complex data into cool interfaces and lead teams to victory—with a dose of fun along the way! :contentReference[oaicite:9]{index=9}
+I turn complex data into cool interfaces and lead teams to victory—with a dose of fun along the way!
 
 ## 🚀 Professional Highlights
 - **Software Engineer @ TechAI**, Georgia Tech (May 2025 – Present)  
