@@ -1,5 +1,12 @@
 # Hey there! I’m Jeremy 👋
 
+![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
+![Typescript](https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-%23d97706?style=for-the-badge&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23512BD4?style=for-the-badge&logo=openjdk&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%234EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![VIM](https://img.shields.io/badge/Vim%20(btw)-%2357A143?style=for-the-badge&logo=vim&logoColor=white)
+
 **Software Engineer & former Naval Nuclear Officer**  
 I turn complex data into cool interfaces and lead teams to victory—with a dose of fun along the way!
 
