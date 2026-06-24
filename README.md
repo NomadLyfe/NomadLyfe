@@ -1,13 +1,11 @@
-# Hey there! I’m Jeremy.
+# Hola!
 
-![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
-![Typescript](https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-%23d97706?style=for-the-badge&logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23512BD4?style=for-the-badge&logo=openjdk&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-%234EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+<picture>
+  <img title="skills" alt="skills" src="https://skillicons.dev/icons?theme=dark&i=typescript,react,nextjs,python,flask,django,rust,php,java,lua,bash,docker" />
+</picture>
 
-**Software Engineer & former Naval Nuclear Officer**  
-I turn complex data into cool interfaces and lead teams to victory—with a dose of fun along the way!
+### Software Engineer & former Naval Nuclear Officer
+I love complex data sets and building new solutions!
 
 ## Professional Highlights
 - **Software Engineer @ TechAI**, Georgia Tech (May 2025 – Present)  
@@ -24,12 +22,3 @@ I turn complex data into cool interfaces and lead teams to victory—with a dose
 
 ## Connect
 [LinkedIn](https://www.linkedin.com/in/jeremygarcia23/) ・ [GitHub](https://github.com/NomadLyfe) ・ [Codewars](https://www.codewars.com/users/NomadLyfe)
-
-<!--
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=NomadLyfe&show_icons=true&theme=radical" 
-    alt="Jeremy’s GitHub stats" 
-  />
-</p>
--->
