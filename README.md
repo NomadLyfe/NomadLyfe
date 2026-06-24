@@ -1,4 +1,4 @@
-# Hey there! I’m Jeremy 👋
+# Hey there! I’m Jeremy.
 
 ![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -22,7 +22,7 @@ I turn complex data into cool interfaces and lead teams to victory—with a dose
 - Learning new tech
 - Exploring new adventures
 
-## 📫 Connect
+## Connect
 [LinkedIn](https://www.linkedin.com/in/jeremygarcia23/) ・ [GitHub](https://github.com/NomadLyfe) ・ [Codewars](https://www.codewars.com/users/NomadLyfe)
 
 <!--
